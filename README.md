@@ -2,7 +2,7 @@
 
 ### 🎓 Education & Experience
 * 🔹 **Cyber Security Specialist, ROK Army** _(2026.05 - )_
-* 🔹 **Chiller R&D, GST (Global Standard Technology)** _(2026.03 - )_
+* 🔹 **Chiller R&D, Global Standard Technology Co. Ltd.** _(2026.03 - )_
 * 🔹 **Board Member (Academic Dept.), HYAI** _(2025.09 - 2025.12)_
 * 🔹 **Hanyang University ERICA – Robotics Convergence Major** _(2025.03 - )_
 
@@ -14,13 +14,16 @@
 ### 📫 Contact Me
 
 <p align="center">
-<a href="https://github.com/8p4dev">
-  <img src="http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub Badge">
-</a>
-<a href="mailto:rob8p4dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
-</a>
-<a href="https://www.youtube.com/@rob8p4dev">
-  <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@DaeWan23/videos" alt="YouTube Badge">
-</a>
+  <a href="https://github.com/8p4dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yejun-kim-6b1931350">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:rob8p4dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@rob8p4dev">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
 </p>
