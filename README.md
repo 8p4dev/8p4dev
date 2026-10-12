@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🎓 Education & Experience
-* 🔹 **Cyber Security Specialist, ROK Army** _(2026.05 - )_
+* 🔹 **Cyber Security Specialist, ROK Special Warfare Command** _(2026.05 - )_
 * 🔹 **Chiller R&D, Global Standard Technology Co. Ltd.** _(2026.03 - )_
 * 🔹 **Board Member (Academic Dept.), HYAI** _(2025.09 - 2025.12)_
 * 🔹 **Hanyang University ERICA – Robotics Convergence Major** _(2025.03 - )_
